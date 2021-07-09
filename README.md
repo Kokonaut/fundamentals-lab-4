@@ -1,10 +1,6 @@
 # Lab 4: Basic Tower Defense
 
 ## Intro
-This week, we will be taking a different approach to commanding our characters. Instead of having them make decisions through conditionals, we will be giving them direct instructions. You will be organizing a team of up to 3 characters, trying to find the quickest way to get all the diamonds from the playing area to the goal.
-
-For this lab we will be practicing our data structures. You will be using dictionaries and lists to organize actions for your characters to take.
-
 This week, we will be taking our first steps into building our tower defense game! You will be starting off with basic towers, that can only do a set amount of damage. The challenge here is to implement the logic on which monsters should the towers target. 
 
 There will be two types of monsters:
